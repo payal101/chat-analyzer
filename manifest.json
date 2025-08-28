@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Chat Emotion Analyzer",
+  "version": "1.0",
+  "description": "Analyze highlighted chat text using Gemini AI.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
